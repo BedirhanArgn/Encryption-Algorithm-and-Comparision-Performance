@@ -1,0 +1,10 @@
+C:\Users\argunpc\source\repos\datasecurity\datasecurity\bin\Debug\datasecurity.exe.config
+C:\Users\argunpc\source\repos\datasecurity\datasecurity\bin\Debug\datasecurity.exe
+C:\Users\argunpc\source\repos\datasecurity\datasecurity\bin\Debug\datasecurity.pdb
+C:\Users\argunpc\source\repos\datasecurity\datasecurity\obj\Debug\datasecurity.csprojAssemblyReference.cache
+C:\Users\argunpc\source\repos\datasecurity\datasecurity\obj\Debug\datasecurity.Form1.resources
+C:\Users\argunpc\source\repos\datasecurity\datasecurity\obj\Debug\datasecurity.Properties.Resources.resources
+C:\Users\argunpc\source\repos\datasecurity\datasecurity\obj\Debug\datasecurity.csproj.GenerateResource.cache
+C:\Users\argunpc\source\repos\datasecurity\datasecurity\obj\Debug\datasecurity.csproj.CoreCompileInputs.cache
+C:\Users\argunpc\source\repos\datasecurity\datasecurity\obj\Debug\datasecurity.exe
+C:\Users\argunpc\source\repos\datasecurity\datasecurity\obj\Debug\datasecurity.pdb
